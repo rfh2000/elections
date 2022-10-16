@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Elections_Assessment.iml" filepath="$PROJECT_DIR$/.idea/modules/Elections_Assessment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/Elections_Assessment.api.iml" filepath="$PROJECT_DIR$/.idea/modules/api/Elections_Assessment.api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/Elections_Assessment.api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/api/Elections_Assessment.api.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/Elections_Assessment.api.test.iml" filepath="$PROJECT_DIR$/.idea/modules/api/Elections_Assessment.api.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/appWithComposeUI/Elections_Assessment.appWithComposeUI.iml" filepath="$PROJECT_DIR$/.idea/modules/appWithComposeUI/Elections_Assessment.appWithComposeUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/appWithComposeUI/Elections_Assessment.appWithComposeUI.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/appWithComposeUI/Elections_Assessment.appWithComposeUI.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/appWithComposeUI/Elections_Assessment.appWithComposeUI.main.iml" filepath="$PROJECT_DIR$/.idea/modules/appWithComposeUI/Elections_Assessment.appWithComposeUI.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/appWithComposeUI/Elections_Assessment.appWithComposeUI.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/appWithComposeUI/Elections_Assessment.appWithComposeUI.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/appWithXmlUI/Elections_Assessment.appWithXmlUI.iml" filepath="$PROJECT_DIR$/.idea/modules/appWithXmlUI/Elections_Assessment.appWithXmlUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/appWithXmlUI/Elections_Assessment.appWithXmlUI.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/appWithXmlUI/Elections_Assessment.appWithXmlUI.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/appWithXmlUI/Elections_Assessment.appWithXmlUI.main.iml" filepath="$PROJECT_DIR$/.idea/modules/appWithXmlUI/Elections_Assessment.appWithXmlUI.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/appWithXmlUI/Elections_Assessment.appWithXmlUI.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/appWithXmlUI/Elections_Assessment.appWithXmlUI.unitTest.iml" />
+    </modules>
+  </component>
+</project>
